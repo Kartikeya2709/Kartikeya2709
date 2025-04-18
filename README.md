@@ -1,4 +1,6 @@
 <!-- Banner -->
+
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Kartik+%F0%9F%91%8B;Full-stack+developer;Loves+real-time+apps+%E2%9C%A8;Always+learning+new+things" alt="Typing SVG" />
 
 <h1 align="center">👋Hi Kartikeya here, Welcome to my GitHub!</h1>
@@ -12,6 +14,8 @@
 - 💬 Ask me about: Laravel, React, or anime recs 😉
 - ⚡ Fun fact: I probably debug better with music on.
 
+---
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=kartikeya2709.github-profile)
 ---
 
 ## 🛠️ Tech Stack
@@ -41,6 +45,14 @@
 ![My Interests](https://img.shields.io/badge/now%20learning-Next.js%20%26%20Redis-brightgreen?style=for-the-badge&logo=next.js)
 
 ---
+### 🌟 Stats & Badges:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartikeya2709&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartikeya2709&layout=compact&theme=radical)
+
+
+
 
 <!-- Add GitHub contribution graph -->
 

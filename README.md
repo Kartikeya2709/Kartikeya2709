@@ -7,7 +7,8 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kartikeya2709&color=blue&style=flat-square)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kartikeya2709&theme=onedark&row=1&column=5&margin-w=15&margin-h=15)
+
 
 ---
 

@@ -7,6 +7,11 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=Kartikeya2709&color=blue&style=flat-square)
+
+---
+
+
 ## 🧠 About Me
 
 - 🔭 I’m currently building: **Real-time Chat App**

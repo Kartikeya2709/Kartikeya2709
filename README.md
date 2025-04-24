@@ -7,6 +7,11 @@
 
 ---
 
+![Coder GIF](https://media.giphy.com/media/LMNusMQPbiGGaz7Oe2/giphy.gif)
+
+
+---
+
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Kartikeya2709&theme=onedark&row=1&column=5&margin-w=15&margin-h=15)
 
 

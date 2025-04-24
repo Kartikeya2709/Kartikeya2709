@@ -35,7 +35,7 @@
 
 ## 📫 Let’s Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/YOUR_USERNAME)]((https://www.linkedin.com/in/kartikeyasharma2709/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/kartikeyasharma2709)](https://www.linkedin.com/in/kartikeyasharma2709/)
 
 ---
 

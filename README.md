@@ -21,7 +21,7 @@
 
 ## 🧠 About Me
 
-- 🔭 I’m currently building: **Real-time Chat App**
+- 🔭 I’m currently building: **AI-Agents**
 - 🌱 Learning: `Laravel`, `SpringBoot`, `React`, and `Node`
 - 💬 Ask me about: Laravel, React, or anime recs 😉
 - ⚡ Fun fact: I probably debug better with music on.

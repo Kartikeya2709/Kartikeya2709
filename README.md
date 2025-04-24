@@ -7,7 +7,8 @@
 
 ---
 
-![Coder GIF](https://media.giphy.com/media/LMNusMQPbiGGaz7Oe2/giphy.gif)
+![Anime GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JzdWNhY3g4NndvZTB4amFmdTZxY2NyOW94aTFxNHBrZjhxanBrOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.gif)
+
 
 
 ---

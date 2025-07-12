@@ -3,7 +3,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=7F52FF&center=true&vCenter=true&width=440&lines=Hey+there!+I'm+Kartik+%F0%9F%91%8B;Software-Developer;Loves+real-time+apps+%E2%9C%A8;Always+learning+new+things" alt="Typing SVG" />
 
-<h1 align="center">👋Hi Kartikeya here, Welcome to my GitHub!</h1>
+<h1 align="center">👋Hi Kartikeya Sharma here, Welcome to my GitHub!</h1>
 
 ---
 
